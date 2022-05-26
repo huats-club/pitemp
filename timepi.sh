@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script: pitemp.sh
+# Script: timepi.sh
 # Huats 2022
 # This script will retrieve and log both the CPU and GPU temperature on the Raspberry Pi 4.
 
